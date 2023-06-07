@@ -1,6 +1,6 @@
-# Fresh.sh
+# Fresh
 
-Fresh.sh is a simple bash script that checks the age of a file URL and downloads it if it is under 24 hours old using `curl`. It also provides the option to resume interrupted downloads.
+`Fresh.sh` is a simple bash script that checks the age of a file URL and downloads it if it is under 24 hours old using `curl`. It also provides the option to resume interrupted downloads.
 
 ---
 
